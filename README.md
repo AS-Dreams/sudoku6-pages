@@ -8,12 +8,13 @@ Recommended public repository:
 
 Recommended store URLs after GitHub Pages is enabled:
 
+- App Store Marketing URL / developer website: `https://as-dreams.github.io/sudoku6-pages/`
 - Privacy Policy URL: `https://as-dreams.github.io/sudoku6-pages/privacy.html`
 - Support URL: `https://as-dreams.github.io/sudoku6-pages/support.html`
 - AdMob app-ads.txt: `https://as-dreams.github.io/app-ads.txt`
 
 Note: AdMob checks `app-ads.txt` at the root of the developer website domain.
-For the GitHub Pages domain, keep the file here:
+For the developer website hostname `as-dreams.github.io`, keep the file at its root:
 
 `https://as-dreams.github.io/app-ads.txt`
 
